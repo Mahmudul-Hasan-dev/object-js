@@ -35,7 +35,7 @@ var myComputer = {
 //object print
 console.log(myComputer);
 
-//single property from object
+//get single property from object
 console.log(myComputer.model);
 
 //set property value of object
